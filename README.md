@@ -1,8 +1,5 @@
 # Expense-Tracker
-A beginner friendly command line Expense Tracker built with Python. It lets you add, view, and delete your expenses and saves everything to a file so your data is never lost when you close the program.
-# 💰 Expense Tracker (Python CLI)
-
-A simple command-line expense tracking application built using Python.  
+A beginner friendly command line Expense Tracker built with Python. It lets you add, view, and delete your expenses and saves everything to a file so your data is never lost when you close the program
 It allows users to add, view, delete expenses, and track total spending. All data is saved locally using a JSON file.
 
 ## 🎯 Objectives
