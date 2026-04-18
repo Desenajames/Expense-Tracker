@@ -31,6 +31,15 @@ The main objectives of this project are:
 4. All changes are automatically saved to file
 5. Data persists even after closing the program
 
+## 🚀 Future Improvements
+
+- Add charts for expense tracking and analysis  
+- Improve category system and filtering options  
+- Replace JSON storage with a database (SQLite)  
+- Add user login system  
+- Create a GUI or web version  
+- Add budget limits and alerts  
+
 ## 💾 Data Storage
 
 - All expenses are stored in a local file: `expenses.json`
